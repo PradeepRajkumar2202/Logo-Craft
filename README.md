@@ -1,3 +1,7 @@
+<div align="center">
+
+<h1>Logo Craft (Design Logo as You Like)</h1>
+</div>
 # Logo Craft (Design Logo as You Like)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
