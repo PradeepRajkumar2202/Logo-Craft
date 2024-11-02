@@ -20,7 +20,7 @@
 ## Demo
 
 <div align="center">
-<img src="./readme-assets/demo.gif" alt="demo" />
+<img src="./Logocraft_2.gif" alt="demo" />
 </div>
 
 
