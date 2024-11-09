@@ -1,22 +1,11 @@
 <div align="center">
 
-<h1>Logo Craft (Design Logo as You Like)</h1>
+<h1>LogoCraft - A Powerful Logo Creation Platform</h1>
 </div>
 # Logo Craft (Design Logo as You Like)
 
-- Created  React + Vite App and Library Install
-- Setup shadcn Library
-- Learn Tailwindcss 
-- Learn to Use Tailwindcss Components
-- Advance Gradient Color Picker
-- Lucide Icon with Customization
-- Logo Making App logic
-- Learn to Download Logo using html2Canvas 
-- Advance Logic Implementation
--  Step by step tutorial
-- Create Vite Server Proxy
-- Learn to Deploy your app
-- Many More
+LogoCraft - A Powerful Logo Creation App
+LogoCraft is a React + Vite application designed for quick and efficient logo creation. Built with modern tools like Tailwind CSS, ShadCN library, and Lucide Icons, it offers an intuitive design experience with customizable components. Key features include an advanced gradient color picker, shape customization, and dynamic logo adjustments. The app utilizes html2Canvas to enable seamless logo downloads. The project also incorporates a Vite server proxy for enhanced performance and scalability. Perfect for designers looking to craft logos effortlessly!
 ## Demo
 
 
