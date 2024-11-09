@@ -24,19 +24,19 @@
 
 
 ## ScreenShots
- 1} Logo Lists 
+ Logo Lists 
 ![LogoCraft-1](https://github.com/user-attachments/assets/3104c93e-58fc-4737-98d9-64801b3b1853)
 
- 2} ColorFull Logo Lists
+ ColorFull Logo Lists
 ![LogoCraft-2](https://github.com/user-attachments/assets/df8ebd10-d73d-4788-9c3b-bad693bf984f)
 
- 3} When Select Logo it will Appear like below where we can set the "Size","Rotate" and "color".
+ When selecting a logo, it will appear as shown below, allowing you to adjust the "Size," "Rotation," and "Color."
 ![LogoCraft-5](https://github.com/user-attachments/assets/50ab85c6-29d5-4d22-a441-6d6d65eada5b)
 
- 4} In Background section set background color and padding and shape of the logo.
+In the Background section, set the background color, padding, and shape of the logo.
 ![LogoCraft-3](https://github.com/user-attachments/assets/7182dc1d-44bf-4823-9abb-e564ace59df0)
 
- 5} When logo is ready, we can download with the help of "Download" button. 
+Once the logo is ready, you can download it using the "Download" button.
 ![LogoCraft-4](https://github.com/user-attachments/assets/f62d75c2-0695-448a-ba94-bba3289e7685)
 
 
